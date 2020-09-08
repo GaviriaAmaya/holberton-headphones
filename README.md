@@ -22,6 +22,8 @@ This project is implemented from the scratch, using plain HTML and CSS, mobile-f
 
 Just download the repo and open the html files, or mount a web server using, for example [Live server for VSCode](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
+For titles, the official font is Spin Cycle. For the correct visualization, download the [OTF files and install it](https://www.fontsquirrel.com/fonts/Spin-Cycle-OT)
+
 ## Authors
 
 [Juan Amaya Gaviria](https://github.com/GaviriaAmaya/)
